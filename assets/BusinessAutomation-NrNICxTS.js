@@ -1,1 +1,0 @@
-import{j as e}from"./index-DQUWwUcN.js";import{S as t}from"./SimpleThemedPage-B6PIKS9X.js";const i=()=>e.jsx(t,{title:"Business Automation",children:e.jsx("p",{children:"Welcome to the Business Automation page."})});export{i as default};

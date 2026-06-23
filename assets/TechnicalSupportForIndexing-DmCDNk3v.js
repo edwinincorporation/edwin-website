@@ -1,0 +1,1 @@
+import{j as e}from"./index-DrGOgL3q.js";import{S as r}from"./SimpleThemedPage-mnygkEkG.js";const n=()=>e.jsx(r,{title:"Technical Support For Indexing",children:e.jsx("p",{children:"Welcome to the Technical Support For Indexing page."})});export{n as default};

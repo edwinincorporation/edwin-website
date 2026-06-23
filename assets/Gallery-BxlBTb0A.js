@@ -1,1 +1,0 @@
-import{j as e}from"./index-DQUWwUcN.js";const t=()=>e.jsxs("div",{className:"p-8",children:[e.jsx("h1",{className:"text-3xl font-bold mb-4",children:"Photo Gallery"}),e.jsx("p",{children:"Welcome to the Photo Gallery page."})]});export{t as default};

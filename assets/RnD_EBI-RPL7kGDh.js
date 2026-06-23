@@ -1,0 +1,1 @@
+import{j as e}from"./index-DrGOgL3q.js";const t=()=>e.jsxs("div",{className:"p-8",children:[e.jsx("h1",{className:"text-3xl font-bold mb-4",children:"R&D / EBI"}),e.jsx("p",{children:"Welcome to the R&D and EBI page."})]});export{t as default};

@@ -1,0 +1,1 @@
+import{j as e}from"./index-DrGOgL3q.js";import{S as r}from"./SimpleThemedPage-mnygkEkG.js";const o=()=>e.jsx(r,{title:"Opening Journal Services",children:e.jsx("p",{children:"Welcome to the Opening Journal Services page."})});export{o as default};

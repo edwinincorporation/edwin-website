@@ -1,1 +1,0 @@
-import{j as e}from"./index-DQUWwUcN.js";import{S as r}from"./SimpleThemedPage-B6PIKS9X.js";const m=()=>e.jsx(r,{title:"Membership Portal",children:e.jsx("p",{children:"Welcome to the Membership Portal page."})});export{m as default};

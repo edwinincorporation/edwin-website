@@ -1,0 +1,1 @@
+import{j as t}from"./index-DrGOgL3q.js";import{S as e}from"./SimpleThemedPage-mnygkEkG.js";const p=()=>t.jsx(e,{title:"Print & E ISSN Allotment Support",children:t.jsx("p",{children:"Welcome to the Print & E ISSN Allotment Support page."})});export{p as default};

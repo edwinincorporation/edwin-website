@@ -1,0 +1,1 @@
+import{j as e}from"./index-DrGOgL3q.js";import{S as r}from"./SimpleThemedPage-mnygkEkG.js";const t=()=>e.jsx(r,{title:"Paid DOI - Crossref",children:e.jsx("p",{children:"Welcome to the Paid DOI - Crossref page."})});export{t as default};

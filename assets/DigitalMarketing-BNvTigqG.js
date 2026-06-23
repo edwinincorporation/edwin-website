@@ -1,0 +1,1 @@
+import{j as e}from"./index-DrGOgL3q.js";import{S as t}from"./SimpleThemedPage-mnygkEkG.js";const a=()=>e.jsx(t,{title:"Digital Marketing",children:e.jsx("p",{children:"Welcome to the Digital Marketing page."})});export{a as default};

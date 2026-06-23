@@ -1,0 +1,1 @@
+import{j as e}from"./index-DrGOgL3q.js";import{S as t}from"./SimpleThemedPage-mnygkEkG.js";const r=()=>e.jsx(t,{title:"Whatsapp Services",children:e.jsx("p",{children:"Welcome to the Whatsapp Services page."})});export{r as default};

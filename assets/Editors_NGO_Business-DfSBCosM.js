@@ -1,1 +1,0 @@
-import{j as s}from"./index-DQUWwUcN.js";import{S as e}from"./SimpleThemedPage-B6PIKS9X.js";const r=()=>s.jsx(e,{title:"Editors || NGO || Business",children:s.jsx("p",{children:"Welcome to the Editors, NGO, and Business services page."})});export{r as default};
