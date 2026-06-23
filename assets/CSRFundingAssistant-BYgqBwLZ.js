@@ -1,0 +1,1 @@
+import{j as t}from"./index-DQUWwUcN.js";import{S as s}from"./SimpleThemedPage-B6PIKS9X.js";const i=()=>t.jsx(s,{title:"CSR Funding Assistant",children:t.jsx("p",{children:"Welcome to the CSR Funding Assistant page."})});export{i as default};

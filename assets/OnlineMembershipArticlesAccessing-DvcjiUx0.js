@@ -1,0 +1,1 @@
+import{j as e}from"./index-DQUWwUcN.js";const i=()=>e.jsxs("div",{className:"p-8",children:[e.jsx("h1",{className:"text-3xl font-bold mb-4",children:"Online Membership - Articles Accessing"}),e.jsx("p",{children:"Welcome to the Online Membership - Articles Accessing page."})]});export{i as default};

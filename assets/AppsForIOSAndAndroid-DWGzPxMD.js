@@ -1,0 +1,1 @@
+import{j as r}from"./index-DQUWwUcN.js";import{S as e}from"./SimpleThemedPage-B6PIKS9X.js";const p=()=>r.jsx(e,{title:"Apps for IOS and Android",children:r.jsx("p",{children:"Welcome to the Apps for IOS and Android page."})});export{p as default};
